@@ -10,6 +10,9 @@ Simply run app.py on the command line through Python.<br />
 python app.py
 ```
 
+# Compatibility
+I haven't tested it for anything but Ubuntu (Linux) yet, but since it's Python it should - in theory - work on any machine that has Python installed - Windows, Mac, or Linux.
+
 ## Dependencies:
 - Python 3.7
 - pandas
