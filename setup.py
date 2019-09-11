@@ -6,7 +6,7 @@ with open('README.md', 'r') as f:
 setup(
     name='cartimegrapher',
     version='0.0.1',
-    packages=find_packages(),
+    packages=['cartimegrapher'],
     url='https://github.com/eatin-phlegm/cartimegrapher',
     license='GNUv3.0',
     author='eatin-phlegm',
