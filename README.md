@@ -6,7 +6,11 @@ A simple timeline visualizer for writers, that doesn't cost money.
 # Set Up
 To install the prerequisites for the software:
 ```bash
-pip install -r requirements.txt
+pip install .
+```
+or if you don't have pip:
+```bash
+python setup.py install
 ```
 
 # Executing
