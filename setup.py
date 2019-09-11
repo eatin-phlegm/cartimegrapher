@@ -8,7 +8,7 @@ setup(
     version='0.0.1',
     packages=['cartimegrapher'],
     url='https://github.com/eatin-phlegm/cartimegrapher',
-    license='GNUv3.0',
+    license='GPL-3.0',
     author='eatin-phlegm',
     author_email='',
     description='A simple timeline visualizer for writers.',
