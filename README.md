@@ -10,7 +10,7 @@ pip install .
 ```
 or if you don't have pip, this should suffice:
 ```bash
-python setup.py build && python setup.py install
+python setup.py install
 ```
 
 # Executing
