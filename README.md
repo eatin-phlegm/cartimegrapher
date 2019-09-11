@@ -18,4 +18,3 @@ python app.py
 
 # Compatibility
 I haven't tested it for anything but Ubuntu (Linux) yet, but since it's Python it should - in theory - work on any machine that has Python installed - Windows, Mac, or Linux.
-
