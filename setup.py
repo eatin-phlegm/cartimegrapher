@@ -1,4 +1,4 @@
-from setuptools import setup, find_packages
+from distutils.core import setup
 
 with open('README.md', 'r') as f:
     long_description = f.read()
@@ -6,7 +6,7 @@ with open('README.md', 'r') as f:
 setup(
     name='cartimegrapher',
     version='0.0.1',
-    packages=find_packages(),
+    packages=['cartimegrapher','cartimegrapher.ui'],
     url='https://github.com/eatin-phlegm/cartimegrapher',
     license='GPL-3.0',
     author='eatin-phlegm',
