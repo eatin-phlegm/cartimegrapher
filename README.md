@@ -4,9 +4,9 @@ A simple timeline visualizer for writers, that doesn't cost money.
 ! This is still a work in progress, may contain bugs !
 
 ## Setting up...
-From inside the project directory
+From inside the project directory, use pip to install the required packages to run Cartimegrapher.
 ```bash
-python setup.py install
+pip install -r requirements.txt
 ```
 
 ## Executing
@@ -17,4 +17,5 @@ python run.py
 ```
 
 ## Compatibility
-I haven't tested it for anything but Ubuntu (Linux) yet, but since it's Python it should - in theory - work on any machine that has Python installed - Windows, Mac, or Linux.
+I have tested it for Linux (Ubuntu) and Windows 10 and it works well on my personal systems.
+In theory it should work on any machine with Python 3 installed though - with the proper packages installed.
